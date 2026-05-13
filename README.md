@@ -2,6 +2,7 @@
 
 
 Je teste le tableau blanc collaboratif libre <a href="https://excalidraw.com">Excalidraw</a>, pour générer des clefs simplifiées illustrées par des photos sous licences libres  de Inaturalist.
+
 Je conseille l'excellent logiciel libre <a href="https://pablocut.forge.apps.education.fr">Pablocut</a> pour le détourage automatique des photos.
 
 Cela donne ceci :
